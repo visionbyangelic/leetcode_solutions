@@ -38,5 +38,6 @@ class Solution:
  
  ✅ Proof of Acceptance 
             
- <img width="1334" height="666" alt="image" src="https://gist.github.com/user-attachments/assets/1d36f044-8c05-4406-9ff5-5f953fee11c6" />
+ <img width="1334" height="666" alt="image" src="https://github.com/user-attachments/assets/4ee96cc7-1652-4e31-add9-5124a0d6485a" />
+
  
