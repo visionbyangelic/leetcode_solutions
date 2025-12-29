@@ -43,5 +43,6 @@ class Solution:
  ✅ Proof of Acceptance :
  
  
-<img width="1354" height="610" alt="image" src="https://gist.github.com/user-attachments/assets/ca4c3c5a-8f94-46dc-b724-b4a2d5887177" />
+<img width="1354" height="610" alt="image" src="https://github.com/user-attachments/assets/6f6911a3-d780-43e4-b6be-1656ce2c51d5" />
+
 
