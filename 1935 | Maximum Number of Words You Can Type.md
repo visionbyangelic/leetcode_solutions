@@ -1,4 +1,4 @@
-### 1935 | Maximum Number of Words You Can Type ⌨️ - Leetcode Day 3
+### 1935 | Maximum Number of Words You Can Type ⌨️ - Leetcode Day 7
 
 **The Challenge:** You are given a string text of words and a string ```brokenLetters```. You need to count how many words in the text can be fully typed using a keyboard where the brokenLetters do not work.
 
